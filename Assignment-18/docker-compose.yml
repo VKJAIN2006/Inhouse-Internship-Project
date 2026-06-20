@@ -1,0 +1,4 @@
+services:
+  pyspark-app:
+    build: .
+    container_name: assignment18
